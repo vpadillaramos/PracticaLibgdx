@@ -49,6 +49,16 @@ public class PantallaMenuPrincipal implements Screen {
             }
         });
 
+        // BOTON CONFIGURACION
+        VisTextButton btConfiguracion = new VisTextButton("Configuración");
+        btConfiguracion.addListener(new ClickListener(){
+            @Override
+            public void clicked(InputEvent event, float x, float y) {
+                ((Practica) Gdx.app.getApplicationListener()).setScreen(new PantallaConfiguracion());
+                dispose();
+            }
+        });
+
         // TITULO
         VisLabel lbTitulo = new VisLabel("Juego");
 
@@ -64,13 +74,15 @@ public class PantallaMenuPrincipal implements Screen {
         menu.add(btJugar).center().width(200).height(80).pad(5);
         menu.row();
         menu.add(btSalir).center().width(200).height(80).pad(5);
+        menu.row();
+        menu.add(btConfiguracion).center().width(200).height(80).pad(5);
 
         Gdx.input.setInputProcessor(stage);
     }
 
     @Override
     public void render(float delta) {
-        // Pintas
+        // Pintar
         Gdx.gl.glClearColor(0.3f, 0, 0, 1);
         Gdx.gl.glClear(GL20.GL_COLOR_BUFFER_BIT);
 

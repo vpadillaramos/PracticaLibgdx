@@ -1,7 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38bee214-ff11-4084-9481-efaadcedd9f3" name="Default Changelist" comment="" />
+    <list default="true" id="38bee214-ff11-4084-9481-efaadcedd9f3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/PracticaLibgdx.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/PracticaLibgdx.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticaLibgdx.iws" beforeDir="false" afterPath="$PROJECT_DIR$/PracticaLibgdx.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/assets/characters.atlas" beforeDir="false" afterPath="$PROJECT_DIR$/android/assets/characters.atlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/assets/characters.png" beforeDir="false" afterPath="$PROJECT_DIR$/android/assets/characters.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/assets/levels/level1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/assets/splash/splash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/assets/sprites/fallingLeft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/assets/sprites/fallingRight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/assets/sprites/idle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/assets/sprites/jumpingLeft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/assets/sprites/jumpingRight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/assets/sprites/left_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/assets/sprites/left_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/assets/sprites/left_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/assets/sprites/right_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/assets/sprites/right_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/assets/sprites/right_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/character/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/character/Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/character/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/character/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/manager/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/manager/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/pantallas/Level.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/pantallas/Sala.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/pantallas/Level1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/pantallas/PantallaJuego.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/pantallas/PantallaJuego.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/pantallas/PantallaMenuFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/pantallas/PantallaMenuFinal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/pantallas/PantallaMenuPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/pantallas/PantallaMenuPrincipal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/pantallas/PantallaSplash.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/pantallas/PantallaSplash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core/character/Character.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core/character/Character.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core/character/Player$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core/character/Player$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core/character/Player$Estado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core/character/Player$Estado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core/character/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core/character/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core/com/vpr/practica/Practica.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core/com/vpr/practica/Practica.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core/manager/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core/manager/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core/pantallas/Level.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core/pantallas/Level1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core/pantallas/PantallaJuego.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core/pantallas/PantallaJuego.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core/pantallas/PantallaMenuFinal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core/pantallas/PantallaMenuFinal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core/pantallas/PantallaMenuPrincipal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core/pantallas/PantallaMenuPrincipal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core/pantallas/PantallaSplash.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core/pantallas/PantallaSplash.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -59,63 +98,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/com/vpr/practica/Practica.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#313#314#0" expanded="true" />
-                <element signature="e#334#335#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/manager/R.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/core/src/pantallas/PantallaSplash.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-10">
-              <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/character/Character.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#798#799#0" expanded="true" />
-                <element signature="e#856#857#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/src/pantallas/PantallaJuego.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1073">
-              <caret line="100" column="12" selection-start-line="100" selection-start-column="12" selection-end-line="100" selection-end-column="12" />
+            <state relative-caret-position="378">
+              <caret line="168" column="45" selection-start-line="168" selection-start-column="45" selection-end-line="168" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -124,14 +111,72 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/pantallas/PantallaMenuPrincipal.java">
+        <entry file="file://$PROJECT_DIR$/core/src/pantallas/PantallaMenuFinal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="52" column="50" lean-forward="true" selection-start-line="52" selection-start-column="50" selection-end-line="52" selection-end-column="50" />
+            <state relative-caret-position="425">
+              <caret line="37" column="45" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2662#2663#0" expanded="true" />
-                <element signature="e#2693#2694#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/character/Disparo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="27" column="62" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/character/Instructor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="40" column="49" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/character/BossFinal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/character/Ghost.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1054">
+              <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/pantallas/Sala.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="55" column="59" selection-start-line="55" selection-start-column="59" selection-end-line="55" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -140,24 +185,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/src/character/Player.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="51" column="33" lean-forward="true" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+            <state relative-caret-position="646">
+              <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#8220#8221#0" expanded="true" />
-                <element signature="e#8260#8261#0" expanded="true" />
-                <element signature="e#11380#11381#0" expanded="true" />
-                <element signature="e#11408#11409#0" expanded="true" />
-                <element signature="e#11505#11506#0" expanded="true" />
-                <element signature="e#11533#11534#0" expanded="true" />
-                <element signature="e#11628#11629#0" expanded="true" />
-                <element signature="e#11656#11657#0" expanded="true" />
-                <element signature="e#11744#11745#0" expanded="true" />
-                <element signature="e#11772#11773#0" expanded="true" />
-                <element signature="e#11845#11846#0" expanded="true" />
-                <element signature="e#11873#11874#0" expanded="true" />
-                <element signature="e#11930#11931#0" expanded="true" />
-                <element signature="e#11958#11959#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -172,20 +203,39 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>salaActu</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/desktop/src/com/vpr/practica/desktop/PacketLauncher.java" />
-        <option value="$PROJECT_DIR$/core/src/manager/R.java" />
-        <option value="$PROJECT_DIR$/core/src/pantallas/PantallaSplash.java" />
-        <option value="$PROJECT_DIR$/core/src/pantallas/PantallaMenuPrincipal.java" />
         <option value="$PROJECT_DIR$/desktop/src/com/vpr/practica/desktop/DesktopLauncher.java" />
-        <option value="$PROJECT_DIR$/core/src/pantallas/PantallaJuego.java" />
-        <option value="$PROJECT_DIR$/core/src/pantallas/Level.java" />
-        <option value="$PROJECT_DIR$/core/src/pantallas/Level1.java" />
-        <option value="$PROJECT_DIR$/core/src/character/Player.java" />
         <option value="$PROJECT_DIR$/core/src/com/vpr/practica/Practica.java" />
+        <option value="$PROJECT_DIR$/core/src/manager/LevelManager.java" />
+        <option value="$PROJECT_DIR$/core/src/manager/SpriteManager.java" />
+        <option value="$PROJECT_DIR$/core/src/pantallas/PantallaSplash.java" />
         <option value="$PROJECT_DIR$/core/src/character/Character.java" />
+        <option value="$PROJECT_DIR$/core/src/pantallas/Level1.java" />
+        <option value="$PROJECT_DIR$/core/src/pantallas/Level.java" />
+        <option value="$PROJECT_DIR$/core/src/character/Player.java" />
+        <option value="$PROJECT_DIR$/core/src/character/Ghost.java" />
+        <option value="$PROJECT_DIR$/core/src/util/Constantes.java" />
+        <option value="$PROJECT_DIR$/core/src/pantallas/PantallaMenuPrincipal.java" />
+        <option value="$PROJECT_DIR$/core/src/pantallas/PantallaConfiguracion.java" />
+        <option value="$PROJECT_DIR$/core/src/manager/Configuracion.java" />
+        <option value="$PROJECT_DIR$/core/src/manager/R.java" />
+        <option value="$PROJECT_DIR$/core/src/character/Instructor.java" />
+        <option value="$PROJECT_DIR$/core/src/pantallas/Sala.java" />
+        <option value="$PROJECT_DIR$/core/src/character/Disparo.java" />
+        <option value="$PROJECT_DIR$/core/src/pantallas/PantallaMenuFinal.java" />
+        <option value="$PROJECT_DIR$/core/src/character/BossFinal.java" />
+        <option value="$PROJECT_DIR$/core/src/pantallas/PantallaJuego.java" />
       </list>
     </option>
   </component>
@@ -193,9 +243,9 @@
     <option name="LAST_EDITED_MODULE_NAME" />
     <option name="LAST_EDITED_TAB_NAME" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
-    <option name="width" value="697" />
+    <option name="width" value="585" />
     <option name="height" value="743" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -211,9 +261,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -244,7 +291,7 @@
               <item name="PracticaLibgdx" type="462c0819:PsiDirectoryNode" />
               <item name="android" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="splash" type="462c0819:PsiDirectoryNode" />
+              <item name="sounds" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PracticaLibgdx" type="b2602c69:ProjectViewProjectNode" />
@@ -295,6 +342,13 @@
             <path>
               <item name="PracticaLibgdx" type="b2602c69:ProjectViewProjectNode" />
               <item name="PracticaLibgdx" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PracticaLibgdx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticaLibgdx" type="462c0819:PsiDirectoryNode" />
               <item name="desktop" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -314,6 +368,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -323,7 +380,7 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552274147756" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552484393326" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Zombies/build.gradle" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15136719" />
@@ -331,13 +388,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\libgdx_projects\PracticaLibgdx\android\assets\levels" />
+      <recent name="C:\libgdx_projects\PracticaLibgdx\android\assets\sprites" />
+      <recent name="C:\libgdx_projects\PracticaLibgdx\android\assets\sounds" />
+      <recent name="C:\libgdx_projects\PracticaLibgdx\android\assets\splash" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\libgdx_projects\PracticaLibgdx\android\assets\sprites" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\libgdx_projects\PracticaLibgdx\android\assets\sprites" />
-      <recent name="C:\libgdx_projects\PracticaLibgdx\android\assets\levels" />
-      <recent name="C:\libgdx_projects\PracticaLibgdx\android\assets\splash" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -434,9 +492,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="697" height="743" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="752" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.43956044" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20272315" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Build Variants" order="3" side_tool="true" />
@@ -447,7 +506,7 @@
       <window_info id="UI Designer" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.25409836" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.16801292" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.35864297" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -477,54 +536,7 @@
     <entry file="file://$USER_HOME$/Desktop/LibGDX/MarioBros/MarioBros.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/pantallas/PantallaMenuFinal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/android/assets/characters.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/android/assets/sprites/jumpingLeft.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/android/assets/sprites/idle.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/pantallas/Level.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
-          <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#721#722#0" expanded="true" />
-            <element signature="e#754#755#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/pantallas/Level1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/manager/R.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/android/assets/sprites/jumpingLeft.png" />
     <entry file="file://$PROJECT_DIR$/desktop/src/com/vpr/practica/desktop/DesktopLauncher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -545,67 +557,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/pantallas/PantallaMenuPrincipal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="52" column="50" lean-forward="true" selection-start-line="52" selection-start-column="50" selection-end-line="52" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2662#2663#0" expanded="true" />
-            <element signature="e#2693#2694#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/pantallas/PantallaJuego.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1073">
-          <caret line="100" column="12" selection-start-line="100" selection-start-column="12" selection-end-line="100" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/character/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#798#799#0" expanded="true" />
-            <element signature="e#856#857#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/character/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="51" column="33" lean-forward="true" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#8220#8221#0" expanded="true" />
-            <element signature="e#8260#8261#0" expanded="true" />
-            <element signature="e#11380#11381#0" expanded="true" />
-            <element signature="e#11408#11409#0" expanded="true" />
-            <element signature="e#11505#11506#0" expanded="true" />
-            <element signature="e#11533#11534#0" expanded="true" />
-            <element signature="e#11628#11629#0" expanded="true" />
-            <element signature="e#11656#11657#0" expanded="true" />
-            <element signature="e#11744#11745#0" expanded="true" />
-            <element signature="e#11772#11773#0" expanded="true" />
-            <element signature="e#11845#11846#0" expanded="true" />
-            <element signature="e#11873#11874#0" expanded="true" />
-            <element signature="e#11930#11931#0" expanded="true" />
-            <element signature="e#11958#11959#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/android/assets/sprites/right_2.png" />
+    <entry file="file://$PROJECT_DIR$/core/src/util.java" />
     <entry file="file://$PROJECT_DIR$/core/src/com/vpr/practica/Practica.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="187">
           <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -615,10 +571,197 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/manager/SpriteManager.java" />
+    <entry file="file://$PROJECT_DIR$/core/src/manager/LevelManager.java" />
+    <entry file="file://$PROJECT_DIR$/android/assets/sprites/idle.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/assets/levels/level1.png" />
+    <entry file="file://$PROJECT_DIR$/android/assets/characters.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/pantallas/Level1.java" />
+    <entry file="file://$PROJECT_DIR$/android/assets/sprites/tear.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/pantallas/PantallaGameOver.java" />
+    <entry file="file://$PROJECT_DIR$/android/assets/levels/sala1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/util/Constantes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/pantallas/PantallaMenuPrincipal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="77" column="72" selection-start-line="77" selection-start-column="72" selection-end-line="77" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#943#1200#0" expanded="true" />
+            <element signature="e#1199#1200#0" expanded="true" />
+            <element signature="e#1641#1898#0" expanded="true" />
+            <element signature="e#1897#1898#0" expanded="true" />
+            <element signature="e#2662#2663#0" expanded="true" />
+            <element signature="e#2693#2694#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.8/bac17f395be5010619b31280fe84e9f53118d0b9/gdx-1.9.8-sources.jar!/com/badlogic/gdx/assets/AssetManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="370" column="43" lean-forward="true" selection-start-line="370" selection-start-column="43" selection-end-line="370" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/pantallas/PantallaConfiguracion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-308">
+          <caret line="79" column="38" selection-start-line="79" selection-start-column="38" selection-end-line="79" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1294#1552#0" expanded="true" />
+            <element signature="e#1551#1552#0" expanded="true" />
+            <element signature="e#1585#1843#0" expanded="true" />
+            <element signature="e#1842#1843#0" expanded="true" />
+            <element signature="e#1918#2116#0" expanded="true" />
+            <element signature="e#2115#2116#0" expanded="true" />
+            <element signature="e#2521#2522#0" expanded="true" />
+            <element signature="e#2542#2543#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/manager/Configuracion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/manager/R.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+            <element signature="e#979#980#0" expanded="true" />
+            <element signature="e#1033#1034#0" expanded="true" />
+            <element signature="e#1104#1105#0" expanded="true" />
+            <element signature="e#1158#1159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/core/src/pantallas/PantallaSplash.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
-          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        <state relative-caret-position="197">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/character/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#859#860#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/pantallas/PantallaJuego.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="168" column="45" selection-start-line="168" selection-start-column="45" selection-end-line="168" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/pantallas/PantallaMenuFinal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="37" column="45" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/character/Disparo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="27" column="62" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/character/Instructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="40" column="49" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/character/BossFinal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/character/Ghost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/pantallas/Sala.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="55" column="59" selection-start-line="55" selection-start-column="59" selection-end-line="55" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/character/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

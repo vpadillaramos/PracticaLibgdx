@@ -19,7 +19,10 @@ public class R {
     // Metodo para cargar todo
     public static void cargarRecursos(){
         assets.load(ATLAS, TextureAtlas.class);
-       // assets.load("sounds" + File.separator + "", Sound.class);
+        assets.load("sounds" + File.separator + "waterDrop.mp3", Sound.class);
+        assets.load("sounds" + File.separator + "isaacDamage.mp3", Sound.class);
+        assets.load("sounds" + File.separator + "ghost.mp3", Sound.class);
+        assets.load("sounds" + File.separator + "dungeon.mp3", Music.class);
     }
 
     public static boolean update(){

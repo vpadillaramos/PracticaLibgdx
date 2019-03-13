@@ -22,7 +22,7 @@ public class PantallaSplash implements Screen {
 
     // Constructor
     public PantallaSplash(){
-        splashTexture = new Texture(Gdx.files.internal("splash/splash.jpg"));
+        splashTexture = new Texture(Gdx.files.internal("splash/splash.png"));
         splashImage = new Image(splashTexture);
     }
 

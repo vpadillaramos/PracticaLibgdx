@@ -13,12 +13,14 @@ public class Character implements Disposable {
     public Vector2 tamano;
     public TextureRegion imagen;
     public Rectangle hb;
+    public int vidas;
 
     // Constructor
     public Character(TextureRegion imagen){
         this.imagen = imagen;
         tamano = new Vector2(imagen.getRegionWidth(), imagen.getRegionHeight());
         posicion = new Vector2(0,0);
+        velocidad = new Vector2(0, 0);
         hb = new Rectangle(posicion.x, posicion.y, tamano.x, tamano.y);
     }
 
@@ -27,27 +29,46 @@ public class Character implements Disposable {
         batch.draw(imagen, posicion.x, posicion.y);
     }
 
-    public void moverIzq(Vector2 movimiento){
-        // movimiento negativo
-        posicion.sub(movimiento);
-        hb.setPosition(posicion);
-    }
-
-    public void moverIzq(){
+    public void moveLeft(){
         posicion.sub(velocidad);
         hb.setPosition(posicion);
     }
 
-    public void moverDch(Vector2 movimiento){
-        // movimiento positivo
-        posicion.add(movimiento);
-        hb.setPosition(posicion);
-    }
-
-    public void moverDch(){
+    public void moveRight(){
         posicion.add(velocidad);
         hb.setPosition(posicion);
     }
+
+    public void moveUp(){
+        posicion.add(velocidad);
+        hb.setPosition(posicion);
+    }
+
+    public void moveDown(){
+        posicion.sub(velocidad);
+        hb.setPosition(posicion);
+    }
+
+    public void diagonalUpRight(){
+        posicion.add(velocidad);
+        hb.setPosition(posicion);
+    }
+
+    public void diagonalUpLeft(){
+        posicion.add(-velocidad.x, velocidad.y);
+        hb.setPosition(posicion);
+    }
+
+    public void diagonalDownRight(){
+        posicion.add(velocidad.x, -velocidad.y);
+        hb.setPosition(posicion);
+    }
+
+    public void diagonalDownLeft(){
+        posicion.add(-velocidad.x, -velocidad.y);
+        hb.setPosition(posicion);
+    }
+
 
     @Override
     public void dispose() {
